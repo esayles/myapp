@@ -13,7 +13,7 @@ export default function App() {
         source={{ uri: "https://i.redd.it/jx92aw75udb81.jpg" }}
         style={{ width: 400, height: 500 }}
       />
-      <Text style={styles.text}>This is a line of text! </Text>
+      <Text style={styles.text}>I'm making an important change</Text>
       <Text style={styles.text2}>This is another line of text! </Text>
       <Text style={styles.text3}>
         This, too, is a line of text! I made it two sentences though.{" "}
